@@ -1,0 +1,13 @@
+name: sagar biswas
+email id: aqua.primera@gmail.com
+mobile: 01674640742
+
+FOR ADMIN LOGIN--
+admin email:sagar@gmail.com
+password: 1234
+admin_url: base url/admin_login
+
+FOR CUSTOMR LOGIN--
+customer email: archita@gmail.com
+password: 123
+

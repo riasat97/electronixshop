@@ -1,0 +1,142 @@
+.container
+{
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    background: #ddd;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.create_an_account
+{
+    float: left;
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    width: 100%;
+}
+.personal_info_title p
+{
+    font-size: 16px;
+    line-height: 0;
+    margin-left: 13px;
+    margin-top: 65px;
+}
+.personal_info
+{
+    float: left;
+    width: 96%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
+.box_title
+{
+    font-size: 14px;
+}
+.half_box
+{
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 46%;
+}
+.half_box_input{
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    width: 250px;
+}
+.check_box
+{
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 6px;
+    margin-right: 10px;
+    margin-top: 0;
+}
+.check_box span
+{
+    float: left;
+    font-size: 12px;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+.check_box_input{
+    float: left;
+    margin-top: 4px;
+}
+.address_info p{
+    font-size: 16px;
+    line-height: 0;
+    margin-left: 13px;
+    margin-top: 65px;
+}
+.full_box
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.login_info
+{
+}
+.submit_btn
+{
+    float: right;
+    height: 45px;
+    margin-right: 30px;
+    margin-top: -15px;
+}
+.btn
+{
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+background-attachment: scroll;
+background-clip: border-box;
+background-color: #000000;
+background-image: none;
+background-origin: padding-box;
+background-position: 0 0;
+background-repeat: repeat;
+background-size: auto auto;
+border-bottom-color: -moz-use-text-color;
+border-bottom-style: none;
+border-bottom-width: medium;
+border-image-outset: 0 0 0 0;
+border-image-repeat: stretch stretch;
+border-image-slice: 100% 100% 100% 100%;
+border-image-source: none;
+border-image-width: 1 1 1 1;
+border-left-color-ltr-source: physical;
+border-left-color-rtl-source: physical;
+border-left-color-value: -moz-use-text-color;
+border-left-style-ltr-source: physical;
+border-left-style-rtl-source: physical;
+border-left-style-value: none;
+border-left-width-ltr-source: physical;
+border-left-width-rtl-source: physical;
+border-left-width-value: medium;
+border-right-color-ltr-source: physical;
+border-right-color-rtl-source: physical;
+border-right-color-value: -moz-use-text-color;
+border-right-style-ltr-source: physical;
+border-right-style-rtl-source: physical;
+border-right-style-value: none;
+border-right-width-ltr-source: physical;
+border-right-width-rtl-source: physical;
+border-right-width-value: medium;
+border-top-color: -moz-use-text-color;
+border-top-style: none;
+border-top-width: medium;
+color: #FFFFFF;
+height: 30px;
+width: 80px;
+}

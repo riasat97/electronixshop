@@ -1,0 +1,14 @@
+.btn{
+color: #DC143C;
+font-size: 19px;
+height: 60px;
+width: 220px;
+background:#ddd;
+border-radius:5px;
+border:0;
+}
+
+.td_width
+{
+width:120px;
+}
